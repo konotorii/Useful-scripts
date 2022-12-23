@@ -3,7 +3,6 @@
 Useful python scripts!
 
 ## Current Scripts:
----
  - yt-mp3-thumb.py is for downloading youtube videos as mp3 with thumbnails
  - Download images with image-dl.py
 
